@@ -20,6 +20,7 @@ wget https://raw.githubusercontent.com/secilmiskisi/XAMPPBaslatici/master/xampp.
 ```sh 
 chmod +x ./xampp.sh
 ```
+<p> Artık kullanıma hazır! </p>
 
 <p> Kullanmak için komutlar </p>
 
