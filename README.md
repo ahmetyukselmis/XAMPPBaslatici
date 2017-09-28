@@ -1,0 +1,2 @@
+# XAMPPBaslatici
+Linux XAMPP Başlatıcı
