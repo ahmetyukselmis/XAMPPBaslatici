@@ -2,9 +2,9 @@ while test $# -gt 0; do
         case "$1" in
                 -y|--yardim)
                         echo "Secenekler:"
-                        echo "-basla, --help          XAMPPi başlat"
-                        echo "-durdur, --durdur       XAMPPi durdur"
-			echo "-restart, --restart     Tekrardan başlat"
+                        echo "-b, --basla       XAMPPi başlat"
+                        echo "-d, --durdur      XAMPPi durdur"
+			echo "-r, --restart     Tekrardan başlat"
                         exit 0
                         ;;
                 -b|--basla)
