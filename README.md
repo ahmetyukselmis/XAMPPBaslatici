@@ -18,7 +18,7 @@ wget https://raw.githubusercontent.com/secilmiskisi/XAMPPBaslatici/master/xampp.
 <p> Script'imize çalışmasına yetki verip uygulama diye tanımlıyoruz </p>
 
 ```sh 
-chmod +x ./xampp.sh
+sudo chmod +x ./xampp.sh
 ```
 <p> Artık kullanıma hazır! </p>
 
