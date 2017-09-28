@@ -15,6 +15,12 @@ https://github.com/secilmiskisi/XAMPPKurulumu
 ```sh 
 wget https://raw.githubusercontent.com/secilmiskisi/XAMPPBaslatici/master/xampp.sh
 ```
+<p> Script'imize çalışmasına yetki verip uygulama diye tanımlıyoruz </p>
+
+```sh 
+chmod +x ./xampp.sh
+```
+
 <p> Kullanmak için komutlar </p>
 
 XAMPP'i başlatmak için ./xampp.sh -b yada ./xampp.sh --basla
