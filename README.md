@@ -6,7 +6,7 @@ Linux XAMPP Başlatıcı
 XAMPP 
 <br>
 XAMPP Ubuntu'ya nasıl kurulur? <br>
-('https://github.com/secilmiskisi/XAMPPKurulumu')
+https://github.com/secilmiskisi/XAMPPKurulumu
 
 # Kullanım :
 
